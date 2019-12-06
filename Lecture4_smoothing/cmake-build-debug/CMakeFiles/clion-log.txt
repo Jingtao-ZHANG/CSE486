@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/zhangjingtao/Documents/GitHub/CSE486/Lecture4_smoothing
+-- Found OpenCV: /usr/local/Cellar/opencv/4.1.2 (found version "4.1.2") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhangjingtao/Documents/GitHub/CSE486/Lecture4_smoothing/cmake-build-debug
