@@ -1,0 +1,3 @@
+/Users/zhangjingtao/Documents/GitHub/CSE486/Lecture2_intensity_surfaces_and_gradients/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zhangjingtao/Documents/GitHub/CSE486/Lecture2_intensity_surfaces_and_gradients/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangjingtao/Documents/GitHub/CSE486/Lecture2_intensity_surfaces_and_gradients/cmake-build-debug/CMakeFiles/Lecture2_intensity_surfaces_and_gradients.dir
